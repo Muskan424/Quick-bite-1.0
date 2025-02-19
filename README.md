@@ -1,5 +1,4 @@
-FOOD DELIVERY WEB
-this project this made up of using Frontend [HTML,CSS,JS]
+Here is the basic React.js , html , CSS  frontend setup for your food delivery app. It includes a Navbar and Home Page to get you started. 🚀
 <!DOCTYPE html>
 <html lang="en">
 
